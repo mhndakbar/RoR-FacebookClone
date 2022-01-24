@@ -1,24 +1,17 @@
-# README
+# FaceBook Clone
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is part of RoR Bootcamp practice. It simulates facebook app and it has two models users and posts
 
-Things you may want to cover:
+## Tools & frameworks
+- Ruby on Rails
 
-* Ruby version
+## CRUD Operations on users table
+- Create
+![Create user](https://github.com/mhndakbar/RoR-FacebookClone/blob/feature/models/screenshots/Create%20user.png)
+- Update
+- Delete
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## CRUD Operation on posts table
+- Create
+- Update
+- Delete
